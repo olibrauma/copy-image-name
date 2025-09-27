@@ -1,4 +1,4 @@
-# ![アイコン](icons/32.png) Copy Image Name
+# ![icon](icons/icon.svg) Copy Image Name
 
 Firefox add-on that copies the image file name via right click context menu. 
 
